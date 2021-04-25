@@ -20,7 +20,7 @@ system_scheduler.md
 
 # TODO:
 - Zhvillimi i simulatorit per ilustrimin e skenareve te caktuara autobuz-stacion 
-
+- Simulimi i te dhenava ne rrjet midis pajisjeve
 
 ## Comments
 
