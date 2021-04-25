@@ -18,7 +18,13 @@ system_scheduler.md
 - Location estimation based on data
 
 
+# TODO:
+- Zhvillimi i simulatorit per ilustrimin e skenareve te caktuara autobuz-stacion 
+
+
 ## Comments
+
+
 
 ## future Steps
 - Enable NFC cards
